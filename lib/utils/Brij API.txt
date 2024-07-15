@@ -1,0 +1,23 @@
+1.Slider-https://brij.acttconnect.com/api/Sliders
+2.Category-https://brij.acttconnect.com/api/Categorie5.
+Subcategorybyid-https://brij.acttconnect.com/api/ProductBySubCategorieId?id=1
+
+3-SubCategory-https://brij.acttconnect.com/api/Subcategorie
+4.All Product-https://brij.acttconnect.com/api/AllProduct
+6.Brand Id--https://brij.acttconnect.com/api/getProductByBrandId?id=1
+7.Category Id--https://brij.acttconnect.com/api/ProductByCategorieId?id=1   
+8.ProductById-- https://brij.acttconnect.com/api/ProductById?id=1
+9. ProductByIdWithUserId--- https://brij.acttconnect.com/api/ProductByIdWithUserId?id=1&user_id=1   
+10.Home Data-- https://brij.acttconnect.com/api/HomeData
+12.getOrderData ---https://brij.acttconnect.com/api/getOrder11.
+Place Order--- https://brij.acttconnect.com/api/submitOrderData?user_id=1&orderid=222353&mobile=8794563258&total=790.00&address=west radhapur, Tapash, dharmanagar, 799250&delivery_charge=100.00&final_total=890.00&payment_id=0&payment_method=COD
+Data?id=1&user_id=1
+13.  getOrderId -- https://brij.acttconnect.com/api/getOrderId?user_id=1      
+14.Add Wishlist-- https://brij.acttconnect.com/api/addWishlist?userid=32&productid=1&productvariantid=1
+15.Get Wishlist -- https://brij.acttconnect.com/api/getWishlist?userid=3&productid=1&productvariantid=1
+16.Delete Wishlist--- https://brij.acttconnect.com/api/setWishlist?userid=32&productid=1&productvariantid=1
+17.Add Cart --- https://brij.acttconnect.com/api/addCart?userid=32&productid=2&productvariationid=2&quantity=1
+18.Delete Cart -- https://brij.acttconnect.com/api/deleteCart?userid=3&productid=2&productvariationid=2&quantity=1
+19.Get Cart --- https://brij.acttconnect.com/api/getCart?userid=32&productid=2&productvariationid=2&quantity=2
+20.Notification --- https://brij.acttconnect.com/api/get_notifications
+21. update_userdata---update profile-https://brij.acttconnect.com/api/updateProfile?user_id=34&name=priya&l_name=prakash&email=priya@gmail.com&company_name=Priya  Medical Store&gst_number=12340000&phone=0989809879&holemarks_license=09898887000&image=Text
